@@ -81,25 +81,24 @@ More details will be available inside the **Capstone** directory.
 git clone https://github.com/Anushiv7/MirAI-Summer-Internship-2026.git
 ```
 
-2. Navigate to the desired project
+2. Navigate to the project folder
 
 ```bash
-cd <project-folder>
+cd Assignments/Day-01
 ```
 
-3. Install dependencies
+3. Install Streamlit
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit
 ```
 
-4. Launch the Streamlit application
+4. Run the application
 
 ```bash
 streamlit run app.py
 ```
 
----
 
 ## 🎯 Learning Objectives
 
