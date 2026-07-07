@@ -1,4 +1,4 @@
-#ASSIGNMENTDAY1-APP
+#ASSIGNMENT1-APP
 import streamlit as st 
 #Task 1: The UI Shell
 st.title("Free Survey.")
