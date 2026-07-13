@@ -11,8 +11,8 @@ Throughout this internship, I explored the fundamentals of AI application develo
 ```
 .
 ├── Assignments/
-│   ├── Day-01
-│   ├── Day-02
+│   ├── Assignment-01
+│   ├── Assignment-02
 │   ├── ...
 │
 ├── Mini-Projects/
