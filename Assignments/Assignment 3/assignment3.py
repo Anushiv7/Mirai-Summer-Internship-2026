@@ -97,4 +97,3 @@ Pre-Submission Checklist
 ● Did you successfully replace the "SEND" button with st.chat_input?
 ● Does changing the sidebar personality dropdown keep the chat history on the screen, or does it wipe it out? (It should keep it!)
 Cancel'''
-'''
